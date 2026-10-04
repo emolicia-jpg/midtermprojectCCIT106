@@ -1,0 +1,27 @@
+{
+  "name": "midtermprojectccit106",
+  "version": "1.0.0",
+  "description": "Group2 Equipment Barrowing System",
+  "main": "index.js",
+  "scripts": {
+  "start": "node app.js",
+  "dev": "nodemon app.js",
+  "seed": "node config/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emolicia-jpg/midtermprojectCCIT106.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/emolicia-jpg/midtermprojectCCIT106/issues"
+  },
+  "homepage": "https://github.com/emolicia-jpg/midtermprojectCCIT106#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+  
+}
